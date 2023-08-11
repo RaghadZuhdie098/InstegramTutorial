@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7B29C88F-579F-4E1F-961B-B4C6D88E690B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F4DA754-3B72-4B27-A821-A52A69A7AE23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstegramTutorial/Core/Components/View/PostsGridView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2B610F0-07E8-40D3-96F0-44C300F58551"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstegramTutorial/Core/Components/View/PostsGridView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "511E16C6-3231-452B-80ED-F09BF9F85D4A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstegramTutorial/Core/Components/ViewModel/PostGridViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "511E16C6-3231-452B-80ED-F09BF9F85D4A - 2f3be589d1dfeb10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async throws -&gt; () in InstegramTutorial.PostGridViewModel.init(user: InstegramTutorial.User) -&gt; InstegramTutorial.PostGridViewModel"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Core/Components/ViewModel/PostGridViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "511E16C6-3231-452B-80ED-F09BF9F85D4A - 7531d009233e2e70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 @Sendable () async throws -&gt; () in InstegramTutorial.PostGridViewModel.init(user: InstegramTutorial.User) -&gt; InstegramTutorial.PostGridViewModel"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Core/Components/ViewModel/PostGridViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1208A57-09C3-4955-B7D4-6D76C389FBAE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstegramTutorial/Core/Components/ViewModel/PostGridViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchUserPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C1208A57-09C3-4955-B7D4-6D76C389FBAE - 162d73ae54c01e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for InstegramTutorial.PostGridViewModel.fetchUserPosts() async throws -&gt; ()"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Core/Components/ViewModel/PostGridViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "C1208A57-09C3-4955-B7D4-6D76C389FBAE - 8a3f69af0772592f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for InstegramTutorial.PostGridViewModel.fetchUserPosts() async throws -&gt; ()"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Core/Components/ViewModel/PostGridViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "C1208A57-09C3-4955-B7D4-6D76C389FBAE - a7843e73ad7445e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for InstegramTutorial.PostGridViewModel.fetchUserPosts() async throws -&gt; ()"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Core/Components/ViewModel/PostGridViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "C1208A57-09C3-4955-B7D4-6D76C389FBAE - afacaecf10867e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for InstegramTutorial.PostGridViewModel.fetchUserPosts() async throws -&gt; ()"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Core/Components/ViewModel/PostGridViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14DA5A85-6F25-40A8-95FE-19DCFCF794E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstegramTutorial/Core/Components/ViewModel/PostGridViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchUserPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D87DE4CF-590C-480F-A62B-BBCE0F3AA725"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstegramTutorial/Core/Components/ViewModel/PostGridViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchUserPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CE4BDE3-DF7D-487C-B0BC-D5216C0C935F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstegramTutorial/Services/PostService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchUserPosts(uid:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AF39E68-F6EA-402D-A54E-D89C3263A206"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstegramTutorial/Services/PostService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "fetchUserPosts(uid:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6AF39E68-F6EA-402D-A54E-D89C3263A206 - 1ece2cefa8c0a2a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static InstegramTutorial.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;InstegramTutorial.Post&gt;"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1724">
+               </Location>
+               <Location
+                  uuid = "6AF39E68-F6EA-402D-A54E-D89C3263A206 - ff5f9c7edaf666a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for static InstegramTutorial.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;InstegramTutorial.Post&gt;"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1888">
+               </Location>
+               <Location
+                  uuid = "6AF39E68-F6EA-402D-A54E-D89C3263A206 - 77d17db0a1e0bab5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) await resume partial function for static InstegramTutorial.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;InstegramTutorial.Post&gt;"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "6AF39E68-F6EA-402D-A54E-D89C3263A206 - dfef4dcd0d1ddade"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for static InstegramTutorial.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;InstegramTutorial.Post&gt;"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "6AF39E68-F6EA-402D-A54E-D89C3263A206 - dfef4dcd0d1ddabd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for static InstegramTutorial.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;InstegramTutorial.Post&gt;"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "6AF39E68-F6EA-402D-A54E-D89C3263A206 - 3529b51a50eee589"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(10) suspend resume partial function for static InstegramTutorial.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;InstegramTutorial.Post&gt;"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "6AF39E68-F6EA-402D-A54E-D89C3263A206 - 3529b51a50eee5ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(10) suspend resume partial function for static InstegramTutorial.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;InstegramTutorial.Post&gt;"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05139782-3AA9-452B-897B-078F959A3740"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstegramTutorial/Services/PostService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchUserPosts(uid:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "05139782-3AA9-452B-897B-078F959A3740 - 1ece2cefa8c0a2e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static InstegramTutorial.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;InstegramTutorial.Post&gt;"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1400">
+               </Location>
+               <Location
+                  uuid = "05139782-3AA9-452B-897B-078F959A3740 - ff5f9c7edaf666e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for static InstegramTutorial.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;InstegramTutorial.Post&gt;"
+                  moduleName = "InstegramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/InstegramTutorial/InstegramTutorial/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1564">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81A3BB5D-6828-4A7C-8994-B5AE23C4274A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstegramTutorial/Core/Authintication/Service/AuthServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "createUser(email:password:userName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EEB7F71-E002-4242-AC53-0CF9A536B447"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstegramTutorial/Core/Authintication/Service/AuthServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "createUser(email:password:userName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CB1AEC0-B048-4219-94C1-230357E8D1A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstegramTutorial/Core/Authintication/Service/AuthServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "createUser(email:password:userName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
