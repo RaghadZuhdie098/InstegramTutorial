@@ -13,7 +13,7 @@ import Firebase
 @MainActor
 class EditProfileViewModel: ObservableObject {
     
-    @Published var user: User
+  var user: User
     @Published var selectedImage: PhotosPickerItem? {
         didSet {
             Task {

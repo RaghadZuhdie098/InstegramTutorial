@@ -9,6 +9,14 @@ import SwiftUI
 
 struct ProfileHeaderView: View {
     let user: User
+    
+    @StateObject var viewModel : ProfileHeaderViewModel
+    
+    init(user: User) {
+        self.user = user
+        self._viewModel = StateObject(wrappedValue: ProfileHeaderViewModel(user: user))
+    }
+    
     @State private var showEditProfile = false
     var body: some View {
         VStack (spacing: 10){
@@ -55,7 +63,11 @@ struct ProfileHeaderView: View {
                     print("ShowEditProfile")
                     showEditProfile.toggle()
                 } else {
-                    print("Follow user...")
+                    Task {
+                      try await viewModel.followUser()
+
+                    }
+                  //  print("Follow user...")
                 }
             } label: {
                 Text(user.isCurrentUser ? "Edit Profile" : "Follow")
